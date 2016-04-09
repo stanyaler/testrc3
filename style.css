@@ -10,7 +10,7 @@ color:white;
 }
 
 h2 { 
-   position: relative; 
+   position: absolute; 
    top: 100px; 
    left: 0; 
    width: 100%; 
