@@ -3,7 +3,7 @@
   color:white;
     width:400px;
       height:60px
-      font-style:Lucida;
+      border-style:dashed;
 
 }
 #con {
@@ -12,7 +12,7 @@
    width: 800px;
     height: 800px;
     border: 1px solid #c3c3c3
-      font-family:Calligrapher;
+      ;
   
 }
 .image { 
