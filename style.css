@@ -1,11 +1,16 @@
 #main {
   background-color:black;
   color:white;
-    width:280px;
+    width:400px;
       height:60px;
 
 }
-
+#con {
+  background-color:white;
+  color:black;
+  width:920
+  height:600;
+}
 .image { 
    position: relative; 
    width: 100%;
