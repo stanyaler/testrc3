@@ -3,7 +3,8 @@
 color:black;
 margin:auto;
 position:relative;
-left:800px;right:0px;border:15px dashed black;
+border:15px dashed black;
+text-align:center;
 }
 
 #main {
