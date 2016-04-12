@@ -2,8 +2,8 @@
 {background-color:white;
 color:black;
 margin:auto;
-position:absolute;
-left:800px;right:800px;border:20px dashed black;
+position:relative;
+left:800px;right:0px;border:15px dashed black;
 }
 
 #main {
