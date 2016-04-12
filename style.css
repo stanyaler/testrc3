@@ -2,7 +2,8 @@
 {background-color:white;
 color:black;
 position:relative;
-left:1000px;border-color:black;border-left-width:100px;
+left:1000px;border:80px;
+border-color:black;
 }
 
 #main {
