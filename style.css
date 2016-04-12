@@ -1,6 +1,7 @@
 #sidebar
 {background-color:white;
 color:black;
+margin:auto;
 position:relative;
 left:800px;right:800px;border:20px dashed black;
 }
