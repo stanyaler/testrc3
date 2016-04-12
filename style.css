@@ -2,7 +2,7 @@
 {background-color:white;
 color:black;
 position:relative;
-left:1000px;border:20px dashed black;
+left:800px;right:800px;border:20px dashed black;
 }
 
 #main {
